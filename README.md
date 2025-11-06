@@ -1,3 +1,5 @@
+ChatGPT Prompt - https://grok.com/share/c2hhcmQtMg%3D%3D_72249f13-5d41-4111-aa86-aa76727d2105
+
 Django Blog Project – Command Index (For Teachers & Students)
 Here is a complete step-by-step command list you followed to build the CRUD Blog Dashboard with tabular display.
 
